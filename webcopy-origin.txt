@@ -1,0 +1,12 @@
+Uri: https://www.dados-visualizar.site/
+File Name: C:\Downloaded Web Sites\www.dados-visualizar.site\index.htm
+Content Type: text/html
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-KM3EPTQCPL
+File Name: C:\Downloaded Web Sites\www.dados-visualizar.site\gtag\js.js
+Content Type: application/javascript
+
+Uri: https://www.visualizar-dados.online/cpf/index.htm
+File Name: C:\Downloaded Web Sites\www.dados-visualizar.site\cpf\index.htm
+Content Type: text/html
+
